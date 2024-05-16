@@ -112,19 +112,25 @@
       <a name="labelloc" val="west"/>
       <a name="number" val="4"/>
     </comp>
-    <comp lib="8" loc="(55,56)" name="Text">
-      <a name="text" val="Dividend"/>
+    <comp lib="8" loc="(45,210)" name="Text">
+      <a name="text" val="Reset"/>
     </comp>
-    <comp lib="8" loc="(57,400)" name="Text">
+    <comp lib="8" loc="(55,400)" name="Text">
       <a name="text" val="Divisor"/>
     </comp>
-    <comp lib="8" loc="(637,176)" name="Text">
-      <a name="text" val="Quotient"/>
+    <comp lib="8" loc="(55,55)" name="Text">
+      <a name="text" val="Dividend"/>
     </comp>
-    <comp lib="8" loc="(639,104)" name="Text">
+    <comp lib="8" loc="(605,565)" name="Text">
+      <a name="text" val="Counter"/>
+    </comp>
+    <comp lib="8" loc="(635,100)" name="Text">
       <a name="text" val="Remainder"/>
     </comp>
-    <comp lib="8" loc="(671,74)" name="Text">
+    <comp lib="8" loc="(635,175)" name="Text">
+      <a name="text" val="Quotient"/>
+    </comp>
+    <comp lib="8" loc="(670,70)" name="Text">
       <a name="text" val="Completed"/>
     </comp>
     <wire from="(130,270)" to="(140,270)"/>
