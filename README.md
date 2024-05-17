@@ -1,5 +1,7 @@
-# Introduction
-A collection of digital circuits developed (in Logisim) as part of my Digital Logic Design course.
+A collection of digital circuits developed (in Logisim) as part of a Digital Logic Design course.
+
+## Life
+A 15x15 recreation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 ## Divisor
 A sequential 8bit by 4bit divisor.
